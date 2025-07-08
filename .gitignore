@@ -1,0 +1,18 @@
+# Virtual environments
+venv/
+.env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Jupyter notebook cache
+.ipynb_checkpoints/
+
+# Model files (optional)
+*.h5
+*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
